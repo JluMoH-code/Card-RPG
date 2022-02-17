@@ -1,7 +1,7 @@
 from PyQt5 import QtWidgets as qw 			#модуль для создания объектов 
 from PyQt5.QtGui import QPixmap				#класс для создания изображений
 from PyQt5.QtCore import Qt 				#класс для позиционирования текста внутри виджетов
-from PyQt5.QtWidgets import QMessageBox 	#класс для создания всплывающих окон (использую для отображения ошибок)
+from PyQt5.QtWidgets import QMessageBox 		#класс для создания всплывающих окон (использую для отображения ошибок)
 from PyQt5.QtGui import QIcon 				#класс для вставки изображения в виде иконки для приложения
 from PyQt5.QtGui import QFont
 import sys									#модуль для корректной работы окна
